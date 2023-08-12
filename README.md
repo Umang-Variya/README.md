@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umang-Variya
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently Javascript Developer (Backend)
 
 
 <!---
