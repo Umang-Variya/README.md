@@ -1,5 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Umang Variya." src="./assets/gh-readme-header.png" /></a></p>
-
+### Hi there 👋, I am [Umang Variya](https://umang-portfolio.vercel.app/)! 😁
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
