@@ -1,7 +1,7 @@
 ### Hi there 👋, I am [Umang Variya](https://umang-portfolio.vercel.app/)! 😁
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Backend developer from India 🇮🇳
 
 **About me**
 - 💼 Backend Developer (Nodejs)
